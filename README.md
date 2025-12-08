@@ -33,16 +33,6 @@
 | 2025 資訊奧林匹亞初選 | **第 91 名** |
 | 114學年度資訊月 C++ 個人組全國 | **全國優勝** |
 
-```cpp
-class Guo10 {
-public:
-    string name = "Guo10";
-    string school = "Taipei Municipal Yangming High School";
-    vector<string> passions = {"OS Development", "Competitive Programming", "Algorithms"};
-    string current_project = "Running LLM on Custom OS";
-};
-```
-
 ---
 
 ## Tech Stack
