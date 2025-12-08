@@ -28,10 +28,10 @@
 
 | Competition | Award |
 |:---|:---|
-| APCS | **Implementation Level 5 (400) / Concepts Level 4 (84)** |
-| Taipei City Informatics Competition | **Honorable Mention** |
-| 2025 TOI Selection | **Rank 91** |
-| 114 National IT Month C++ Individual | **Excellence Award** |
+| APCS 檢測 | **實作 5 級 (400分) / 觀念 4 級 (84分)** |
+| 114學年度臺北市資訊學科能力競賽 | **佳作** |
+| 2025 資訊奧林匹亞初選 | **第 91 名** |
+| 114學年度資訊月 C++ 個人組全國 | **全國優勝** |
 
 ```cpp
 class Guo10 {
