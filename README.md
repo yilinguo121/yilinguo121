@@ -58,7 +58,7 @@ public:
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="Languages"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" width="48" height="48" alt="Assembly"/>
+<img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" width="48" height="48" alt="RISC-V"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
