@@ -57,7 +57,8 @@ public:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,assembler&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="Languages"/>
+<img src="https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=windowsterminal&logoColor=white" height="48" alt="Assembly"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
