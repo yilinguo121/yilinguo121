@@ -74,28 +74,6 @@ public:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yilinguo121&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
----
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://yilinguo121.github.io/">
-  <img src="https://img.shields.io/badge/Blog-yilinguo121.github.io-21759B?style=for-the-badge&logo=hugo&logoColor=white"/>
-</a>
-<a href="mailto:guovinn@gmail.com">
-  <img src="https://img.shields.io/badge/Email-guovinn@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/yilinguo121">
-  <img src="https://img.shields.io/badge/GitHub-yilinguo121-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## Contribution Snake
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yilinguo121/yilinguo121/output/github-snake-dark.svg" />
