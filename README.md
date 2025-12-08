@@ -1,7 +1,7 @@
 <!-- Header Banner with Typing Animation -->
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=280&section=header&text=郭10&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=OS%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=20)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=280&section=header&text=郭10&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=OS%20Developer%20|%20Competitive%20Programmer&descAlignY=55&descSize=20)
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=100&lines=Passionate+about+OS+Development+%26+Algorithms;Building+LLM+on+Custom+Operating+System+%F0%9F%94%A5" alt="Typing SVG" /></a>
@@ -78,6 +78,6 @@
 
   ### *"The only way to do great work is to love what you do."*
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=120&section=footer"/>
 
 </div>
