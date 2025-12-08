@@ -37,7 +37,7 @@ public:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" /> Achievements
+## Achievements
 
 <div align="center">
 
@@ -66,7 +66,7 @@ public:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="35" /> GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yilinguo121&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
@@ -83,7 +83,7 @@ public:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="35" /> Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -107,7 +107,7 @@ public:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="35" /> Contribution Snake
+## Contribution Snake
 
 <div align="center">
   <picture>
@@ -121,7 +121,7 @@ public:
 
 <div align="center">
 
-  ### 💡 *"The only way to do great work is to love what you do."*
+  ### *"The only way to do great work is to love what you do."*
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
