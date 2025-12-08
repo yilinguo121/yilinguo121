@@ -17,29 +17,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="35" /> About Me
-
-```cpp
-class Guo10 {
-public:
-    string name = "郭10";
-    string school = "臺北市立陽明高中";
-
-    vector<string> passions = {
-        "Operating System Development",
-        "Competitive Programming",
-        "Algorithm & Data Structures"
-    };
-
-    string current_project = "Running LLM on Custom OS";
-
-    void say_hi() {
-        cout << "Welcome to my profile! Let's build something amazing." << endl;
-    }
-};
-```
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+## About Me
 
 - 🔭 **專注於** 作業系統底層開發與演算法競賽
 - 🌱 **目前研究** Context Switch、虛擬記憶體、行程排程
@@ -47,7 +25,15 @@ public:
 - 🎤 **發表經歷** COSCUP 開源人年會講者
 - 🏸 **休閒興趣** 羽毛球
 
-<br clear="right"/>
+```cpp
+class Guo10 {
+public:
+    string name = "郭10";
+    string school = "臺北市立陽明高中";
+    vector<string> passions = {"OS Development", "Competitive Programming", "Algorithms"};
+    string current_project = "Running LLM on Custom OS";
+};
+```
 
 ---
 
