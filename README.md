@@ -58,7 +58,7 @@ public:
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="Languages"/>
-<img src="https://avatars.githubusercontent.com/u/10872782?s=200&v=4" width="48" height="48" alt="RISC-V"/>
+<img src="./assets/riscv.png" width="48" height="48" alt="RISC-V"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
