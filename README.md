@@ -19,36 +19,29 @@
 
 ## About Me
 
-- **專注於** 作業系統底層開發與演算法競賽
-- **目前研究** Context Switch、虛擬記憶體、行程排程
-- **核心專案** 在自製 OS 上運行 LLM
-- **發表經歷** COSCUP 開源人年會講者
-- **休閒興趣** 羽毛球
+- **Focus** OS Development & Competitive Programming
+- **Research** Context Switch, Virtual Memory, Process Scheduling
+- **Project** Running LLM on Custom OS
+- **Speaker** COSCUP Open Source Conference
+
+### Achievements
+
+| Competition | Award |
+|:---|:---|
+| APCS | **Implementation Level 5 (400) / Concepts Level 4 (84)** |
+| Taipei City Informatics Competition | **Honorable Mention** |
+| 2025 TOI Selection | **Rank 91** |
+| 114 National IT Month C++ Individual | **Excellence Award** |
 
 ```cpp
 class Guo10 {
 public:
-    string name = "郭10";
-    string school = "臺北市立陽明高中";
+    string name = "Guo10";
+    string school = "Taipei Municipal Yangming High School";
     vector<string> passions = {"OS Development", "Competitive Programming", "Algorithms"};
     string current_project = "Running LLM on Custom OS";
 };
 ```
-
----
-
-## Achievements
-
-<div align="center">
-
-| 🏆 Competition | 🎖️ Award |
-|:---|:---|
-| APCS 檢測 | **實作 5 級 (400分) / 觀念 4 級 (84分)** |
-| 114學年度臺北市資訊學科能力競賽 | **佳作** |
-| 2025 資訊奧林匹亞初選 | **第 91 名** |
-| 114學年度資訊月 C++ 個人組全國 | **優勝** |
-
-</div>
 
 ---
 
