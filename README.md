@@ -90,12 +90,6 @@ public:
   <img src="https://img.shields.io/badge/GitHub-yilinguo121-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-[![ZeroJudge](https://img.shields.io/badge/ZeroJudge-Online_Judge-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNS0xMC01ek0yIDE3bDEwIDUgMTAtNS0xMC01LTEwIDV6TTIgMTJsMTAgNSAxMC01LTEwLTUtMTAgNXoiLz48L3N2Zz4=)]()
-[![HackMD](https://img.shields.io/badge/HackMD-Notes-1E88E5?style=for-the-badge&logo=hackmd&logoColor=white)]()
-[![CSES](https://img.shields.io/badge/CSES-Problem_Set-5C6BC0?style=for-the-badge)]()
-
 </div>
 
 ---
