@@ -57,21 +57,10 @@ public:
 <div align="center">
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" alt="Languages"/>
 
 ### Tools & Platforms
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="50" height="50" alt="Vim"/>
-
-### Competitive Programming
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codeforces.svg" width="50" height="50" alt="Codeforces" style="filter: invert(1);"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/atcoder.svg" width="50" height="50" alt="AtCoder"/>
-<img src="https://cses.fi/logo.png" width="50" height="50" alt="CSES"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
 
 </div>
 
