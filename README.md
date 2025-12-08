@@ -57,7 +57,7 @@ public:
 <div align="center">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,python&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,assembler&theme=dark" alt="Languages"/>
 
 ### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
