@@ -60,7 +60,7 @@ public:
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" alt="Languages"/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vim,docker&theme=dark" alt="Tools"/>
 
 </div>
 
