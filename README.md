@@ -23,6 +23,7 @@
 - **Focus** OS Development & Competitive Programming
 - **Research** Context Switch, Virtual Memory, Process Scheduling, System Call, VirtIO
 - **Project** Running LLM on Custom OS — a mini OS built from scratch (ref. *OS in 1,000 Lines*) that lets users chat with an LLM inside it
+- **Speaker** COSCUP 2025 開源人年會 議程講者
 
 ### Achievements
 
@@ -35,13 +36,6 @@
 | 2025 資訊奧林匹亞初選 | **第 91 名** |
 | 113學年度臺北市資訊學科能力競賽 | **第 59 名** |
 | 114學年度資訊月資訊應用技能競賽 C++ 個人組 | **全國優勝** |
-
-### Activities
-
-| Event | Role |
-|:---|:---|
-| 2025 COSCUP 開源人年會 | **議程講者** |
-| 113學年度台北市 AI 教育節 | **參展** |
 
 ---
 
@@ -68,10 +62,6 @@
 
 <div align="center">
   <img width="90%" src="https://streak-stats.demolab.com/?user=yilinguo121&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Streak Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yilinguo121&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <div align="center">
