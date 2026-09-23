@@ -23,7 +23,6 @@
 - **Focus** OS Development & Competitive Programming
 - **Research** Context Switch, Virtual Memory, Process Scheduling, System Call, VirtIO
 - **Project** Running LLM on Custom OS — a mini OS built from scratch (ref. *OS in 1,000 Lines*) that lets users chat with an LLM inside it
-- **Course** 臺北市立陽明高中 人工智慧（AI）學程
 
 ### Achievements
 
@@ -36,11 +35,6 @@
 | 2025 資訊奧林匹亞初選 | **第 91 名** |
 | 113學年度臺北市資訊學科能力競賽 | **第 59 名** |
 | 114學年度資訊月資訊應用技能競賽 C++ 個人組 | **全國優勝** |
-| 112學年度校內資訊能力競賽 | **第一名** |
-| 113學年度校內資訊能力競賽 | **第一名** |
-| 113學年度校內小論文寫作競賽 | **特優** |
-| 1140315 梯次全國高級中等學校小論文寫作比賽 | **特優** |
-| 2023 臺灣國際資訊奧林匹亞「新手同好會」 | **第 20 名** |
 
 ### Activities
 
