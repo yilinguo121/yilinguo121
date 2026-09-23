@@ -11,7 +11,7 @@
   <!-- Badges -->
   <img src="https://komarev.com/ghpvc/?username=yilinguo121&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
   <a href="mailto:guovinn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://yilinguo121.github.io/"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hugo&logoColor=white"/></a>
+  <a href="https://www.yilin0121.com/"><img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=hugo&logoColor=white"/></a>
 
 </div>
 
@@ -19,19 +19,35 @@
 
 ## About Me
 
+- **Education** 國立中山大學資訊工程學系 (National Sun Yat-sen University, CSE)
 - **Focus** OS Development & Competitive Programming
-- **Research** Context Switch, Virtual Memory, Process Scheduling
-- **Project** Running LLM on Custom OS
-- **Speaker** COSCUP Open Source Conference
+- **Research** Context Switch, Virtual Memory, Process Scheduling, System Call, VirtIO
+- **Project** Running LLM on Custom OS — a mini OS built from scratch (ref. *OS in 1,000 Lines*) that lets users chat with an LLM inside it
+- **Course** 臺北市立陽明高中 人工智慧（AI）學程
 
 ### Achievements
 
 | Competition | Award |
 |:---|:---|
-| APCS 檢測 | **實作 5 級 (400分) / 觀念 4 級 (84分)** |
+| APCS 檢測 | **實作 5 級 (400分) / 觀念 5 級 (96分)** |
 | 114學年度臺北市資訊學科能力競賽 | **佳作** |
+| 2026 資訊奧林匹亞初選 | **第 48 名** |
+| YTP 少年圖靈計畫決賽 | **第 30 名** |
 | 2025 資訊奧林匹亞初選 | **第 91 名** |
-| 114學年度資訊月 C++ 個人組全國 | **全國優勝** |
+| 113學年度臺北市資訊學科能力競賽 | **第 59 名** |
+| 114學年度資訊月資訊應用技能競賽 C++ 個人組 | **全國優勝** |
+| 112學年度校內資訊能力競賽 | **第一名** |
+| 113學年度校內資訊能力競賽 | **第一名** |
+| 113學年度校內小論文寫作競賽 | **特優** |
+| 1140315 梯次全國高級中等學校小論文寫作比賽 | **特優** |
+| 2023 臺灣國際資訊奧林匹亞「新手同好會」 | **第 20 名** |
+
+### Activities
+
+| Event | Role |
+|:---|:---|
+| 2025 COSCUP 開源人年會 | **議程講者** |
+| 113學年度台北市 AI 教育節 | **參展** |
 
 ---
 
