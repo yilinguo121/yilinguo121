@@ -19,23 +19,23 @@
 
 ## About Me
 
-- **Education** 國立中山大學資訊工程學系 (National Sun Yat-sen University, CSE)
+- **Education** B.S. in Computer Science and Engineering, National Sun Yat-sen University
 - **Focus** OS Development & Competitive Programming
 - **Research** Context Switch, Virtual Memory, Process Scheduling, System Call, VirtIO
 - **Project** Running LLM on Custom OS — a mini OS built from scratch (ref. *OS in 1,000 Lines*) that lets users chat with an LLM inside it
-- **Speaker** COSCUP 2025 開源人年會 議程講者
+- **Speaker** COSCUP 2025
 
 ### Achievements
 
 | Competition | Award |
 |:---|:---|
-| APCS 檢測 | **實作 5 級 (400分) / 觀念 5 級 (96分)** |
-| 114學年度臺北市資訊學科能力競賽 | **佳作** |
-| 2026 資訊奧林匹亞初選 | **第 48 名** |
-| YTP 少年圖靈計畫決賽 | **第 30 名** |
-| 2025 資訊奧林匹亞初選 | **第 91 名** |
-| 113學年度臺北市資訊學科能力競賽 | **第 59 名** |
-| 114學年度資訊月資訊應用技能競賽 C++ 個人組 | **全國優勝** |
+| APCS (Advanced Placement Computer Science) | **Implementation Level 5 (400) / Concept Level 5 (96)** |
+| Taipei City High School Informatics Competition 2025 | **Honorable Mention** |
+| TOI 2026 Preliminary (Taiwan Olympiad in Informatics) | **48th** |
+| YTP Final (Young Turing Program) | **30th** |
+| TOI 2025 Preliminary | **91st** |
+| Taipei City High School Informatics Competition 2024 | **59th** |
+| Information Month C++ Programming Contest 2025 (Individual) | **National Winner** |
 
 ---
 
